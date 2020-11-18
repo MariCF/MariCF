@@ -9,9 +9,9 @@
 ✔️ Logística Reversa (Planejamento estratégico, sustentabilidade, avaliação de impacto ambiental) <br/>
 
 ### Habiliadades sociais 👩🧠
-🤯 Habilidade em gerar conexões com trabalho em equipe <br/>
-🤯 <b>Combinatividade</b> = usar as minhas diversas experiências para resolver problemas<br/>
-🤯 Pensamento crítico e análitico<br/>
+✔️ Habilidade em gerar conexões com trabalho em equipe <br/>
+✔️ <b>Combinatividade</b> = usar as minhas diversas experiências para resolver problemas<br/>
+✔️ Pensamento crítico e análitico<br/>
 
 </p>
 
