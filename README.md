@@ -3,7 +3,7 @@
 
  
 ### Minhas principais habilidades técnicas são 👩📝️
-✔️ Python (Pandas,Análise Exploratória de Dados, Visualização de Dados) <br/>
+✔️ Python (Pandas,Pré-processamento e tratamento de Dados,Análise Exploratória de Dados, Visualização de Dados) <br/>
 ✔️ Photoshop (mídias sociais)  <br/>
 ✔️ Illustrator (desenho digital) <br/>
 ✔️ Logística Reversa (Planejamento estratégico, sustentabilidade, avaliação de impacto ambiental) <br/>
