@@ -1,12 +1,12 @@
 <h2 align="center"> Maria Clara Ferreira 👩💻 
-<h3 align="center">Tecnóloga em Logística 🔹️ Generalista 🎨</h3> 
+<h3 align="center">Tecnóloga em Logística 🔹️ </h3> 
 
  
 ### Minhas principais habilidades técnicas são 👩📝️
 ✔️ Python (Pandas,Pré-processamento e Tratamento de Dados,Análise Exploratória de Dados, Visualização de Dados) <br/>
 ✔️ Photoshop (criativos para mídias sociais)  <br/>
 ✔️ Illustrator (desenho digital) <br/>
-✔️ Logística Reversa (Especialista em coleta de resíduo eletrônico) <br/>
+✔️ Logística Reversa (Especialista em coleta de produtos eletrônicos sem uso) <br/>
 
 ### Habiliadades sociais 👩🧠
 🔵 Habilidade em gerar conexões com trabalho em equipe <br/>
