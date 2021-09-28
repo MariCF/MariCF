@@ -8,7 +8,7 @@
 ✔️ Illustrator (desenho digital) <br/>
 ✔️ Logística Reversa (Especialista em coleta de produtos eletrônicos sem uso) <br/>
 
-### Habiliadades sociais 👩🧠
+### Habiliadades Sociais 👩🧠
 🔵 Habilidade em gerar conexões com trabalho em equipe <br/>
 🟣 <b>Combinatividade</b> = usar as minhas diversas experiências para resolver problemas<br/>
 🟢 Pensamento crítico e analítico <br/>
